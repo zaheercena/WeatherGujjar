@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(void)
 {
-	printf("Hey Fuking Setting You are Done with fucking Efforts... ");
+	printf("What the Hach is This");
 	return 0;
 }
